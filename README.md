@@ -45,9 +45,9 @@ Welcome to my portfolio! This repository contains selected projects that showcas
 ---
 
 ## 📫 Contact
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** your.email@example.com
-- **GitHub:** [Your GitHub profile URL]
+- **LinkedIn:** www.linkedin.com/in/joescoto-1599255b
+- **Email:** jose3scoto@gmail.com
+- **GitHub:** [https://github.com/JoseScoto]
 
 ---
 
